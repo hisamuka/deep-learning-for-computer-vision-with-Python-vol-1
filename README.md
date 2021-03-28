@@ -4,5 +4,10 @@ This repository contains my codes and examples from the book _"Deep Learning for
 
 
 #### Configuration
-$ export PYTHONPATH=$PYTHONPATH:/pathdir/deep-learning-for-computer-vision-with-Python-vol-1/pyimagesearch
-python knn/knn.py --dataset pyimagesearch/datasets/animals-dataset
+`$ export PYTHONPATH=$PYTHONPATH:/pathdir/deep-learning-for-computer-vision-with-Python-vol-1/pyimagesearch`
+
+### Running Scripts
+From the repository root folder:
+
+- **KNN**: `python knn/knn.py --dataset pyimagesearch/datasets/animals-dataset`
+   
